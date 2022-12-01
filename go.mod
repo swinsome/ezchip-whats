@@ -1,4 +1,5 @@
-module github.com/powersj/whatsthis
+module github.com/swinsome/ezchip-whats
+
 
 go 1.14
 
