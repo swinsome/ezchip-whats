@@ -1,4 +1,4 @@
-package whatsthis
+package ezchip-whats
 
 import (
 	"github.com/powersj/whatsthis/pkg/cloud"
